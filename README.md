@@ -1,3 +1,5 @@
+## Forked from eos_alberta
+
 # eos
 Equation of State files for use in the RNS program.
 
